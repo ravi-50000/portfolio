@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Zen+Kurenaido&display=swap');
+.i0{
+    margin-top: 0px;
+    height: fit-content;
+    width: 100%;
+    position: fixed;
+    background-color:rgb(1,22,39);
+}
+.nav1{
+    font-size: 25px;
+    padding: 1.5rem;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0px;
+    text-align: center;
+    }
+    .nav-portfolio{
+        align-items: center;
+       color: white;
+       font-family: 'Satisfy', cursive;
+       font-size: 2rem;
+    }
+    .nav-bar{
+        display: flex;
+    }
+    .nav2{
+        margin-right: 2rem;
+        background-color: white;
+        text-decoration: none;
+  padding: 14px 25px;
+  text-align: center;
+    }
+#a1{
+    color: white;
+    text-decoration: none;
+}
+.d1{
+    line-height: 0px;
+}
+.d2{
+    display: flex;
+}.d3{
+    display: flex;
+}
+.r1{
+    display: flex;
+}
+.d4{
+    display: grid;
+    padding: 1px;
+    margin: 0px;
+    grid-template-columns: repeat(3,1fr);
+}
+.d5{
+    width: 400px;
+    height: 260px;
+    box-shadow: 2px 2px 5px black;
+    padding: 12px;
+    margin: 0px;
+    
+    border-radius: 20px,20px,20px,20px;
+    margin-left: 50px;
+}
+.div1{
+    background-color: orangered;
+    padding: 4px;
+    text-align: center;
+    display: inline;
+    margin: 4px;
+    
+}
+hr.h1{
+    border: 1px solid yellow;
+}
+.d6{
+    width: 400px;
+    height: 350px;
+    box-shadow: 2px 2px 5px black;
+    padding: 12px;
+    margin: 0px;
+    
+    border-radius: 20px,20px,20px,20px;
+    margin-left: 50px;
+}
+a{
+text-decoration: none;
+}
